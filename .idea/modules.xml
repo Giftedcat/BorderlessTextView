@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BorderlessTextView.iml" filepath="$PROJECT_DIR$/BorderlessTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/app.iml" filepath="$PROJECT_DIR$/sample/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/borderlesstextview/borderlesstextview.iml" filepath="$PROJECT_DIR$/borderlesstextview/borderlesstextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multipltextview/multipltextview.iml" filepath="$PROJECT_DIR$/multipltextview/multipltextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>
