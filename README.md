@@ -2,14 +2,14 @@
 修改最低支持版本，自用
 
 - # 简介
->MultipleTextView  是一个通过重写TextView实现去除原生默认内边距，并扩展了一些其他功能的Android TextView。
+>BorderlessTextView  是一个通过重写TextView实现去除原生默认内边距，并扩展了一些其他功能的Android TextView。
 
-## MultipleTextView 扩展功能
+## BorderlessTextView 扩展功能
 - 去除原生textview默认边距
 - 字体颜色渐变
 - 字体闪动颜色
 - 设置字体样式
-## MultipleTextView 实现效果
+## BorderlessTextView 实现效果
 ![效果图](/doc/introduction.gif)
 
 # 使用
@@ -35,7 +35,7 @@ implementation 'com.github.Giftedcat:BorderlessTextview:v1.0.0'
 - gradle3.0之前
 
 ```
-compile 'com.github.domain9065:MultiplTextView:1.1'
+compile 'com.github.Giftedcat:BorderlessTextview:v1.0.0'
 ```
 
 ## xml可使用属性
