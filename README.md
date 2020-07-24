@@ -1,3 +1,5 @@
+代码来源：https://github.com/domain9065/MultiplTextView
+修改最低支持版本，自用
 
 - # 简介
 >MultipleTextView  是一个通过重写TextView实现去除原生默认内边距，并扩展了一些其他功能的Android TextView。
@@ -27,7 +29,7 @@ allprojects {
 2. 在moudle app 的build.gradle 添加本库依赖 
 - gradle3.0之后
 ```
-implementation 'com.github.domain9065:MultiplTextView:1.1'
+implementation 'com.github.Giftedcat:BorderlessTextview:v1.0.0'
 ```
 
 - gradle3.0之前
